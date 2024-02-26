@@ -3,13 +3,13 @@
 
 * #####  __This Library is for creation of variable sized matrix and vector__
 * #####  __Elements of both vector and matrics will have _float_ data type__
-* #####  __You can make any desired size matrices or vectors for various neural network related mathematics__ 🪐
+* #####  __You can make any desired size matrices or vectors for various neural network related mathematics__ 
 ```
 Vec v1(20), v2(40);
 Mat m1(30,20), m2(30, 40);
 ```
 
-* #####  __The library uses operator overloading which makes it easy to understand and easy to use mathematics library__ 🥧
+* #####  __The library uses operator overloading which makes it easy to understand and easy to use mathematics library__ 
 
 ```
 Vec res = m1*v1 + m2*v2;
